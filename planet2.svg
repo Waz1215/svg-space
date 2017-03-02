@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201 201">
+  <title>planet2</title>
+  <path d="M128.5,229A100.5,100.5,0,1,1,229,128.5,100.61,100.61,0,0,1,128.5,229Zm0-196A95.5,95.5,0,1,0,224,128.5,95.61,95.61,0,0,0,128.5,33Z" transform="translate(-28 -28)"/>
+  <rect x="78.5" y="38.5" width="5" height="59.01" transform="translate(-16.36 119.84) rotate(-89.03)"/>
+  <rect x="10.5" y="60" width="32" height="5"/>
+  <rect x="71.5" y="72" width="61" height="5"/>
+  <rect x="152.25" y="16.75" width="5" height="72.51" transform="translate(71.62 179) rotate(-89.21)"/>
+  <rect x="163" y="33.49" width="5" height="100.02" transform="translate(50.71 219.3) rotate(-88.85)"/>
+  <rect x="168.75" y="32.25" width="5" height="69.51" transform="translate(73.79 209.27) rotate(-89.18)"/>
+  <rect x="66" y="77" width="5" height="76.01" transform="translate(-75.39 153.98) rotate(-89.25)"/>
+  <rect x="188.25" y="82.75" width="5" height="72.51" transform="translate(41.13 280.09) rotate(-89.21)"/>
+  <rect x="114" y="104" width="5" height="72.01" transform="translate(-53.1 226.54) rotate(-89.2)"/>
+  <rect x="2.5" y="103" width="26" height="5"/>
+  <rect x="8.5" y="131" width="67" height="5"/>
+  <rect x="17.5" y="150" width="44" height="5"/>
+  <rect x="105" y="157.49" width="5" height="90.02" transform="translate(-125.34 277.47) rotate(-88.73)"/>
+  <rect x="152.5" y="110" width="46" height="5"/>
+  <rect x="158.5" y="131" width="34" height="5"/>
+  <rect x="105.5" y="150" width="76" height="5"/>
+</svg>

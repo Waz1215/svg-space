@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 199.38">
+  <title>alien</title>
+  <g>
+    <path d="M213.5,95.5c0,49.63-55.71,125.38-83.92,125.38S48.5,149.13,48.5,99.5s52.79-71,81-71S213.5,45.87,213.5,95.5Z" transform="translate(-45 -25)"/>
+    <path d="M213.5,95.5c0,49.63-55.71,125.38-83.92,125.38S48.5,149.13,48.5,99.5s52.79-71,81-71S213.5,45.87,213.5,95.5Z" transform="translate(-45 -25)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+  </g>
+  <g>
+    <path d="M105.3,104.71c13.32,17,20.48,39.37,10.75,47s-32.86-2.16-46.18-19.14-8.89-27.52,1-35.43C80.58,89.43,92,87.73,105.3,104.71Z" transform="translate(-45 -25)" fill="#e6e7e8"/>
+    <path d="M69.87,132.57c-13.32-17-8.89-27.52,1-35.43,9.67-7.71,21.06-9.41,34.39,7.57s20.48,39.37,10.75,47S83.19,149.55,69.87,132.57Z" transform="translate(-45 -25)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+  <g>
+    <path d="M156.34,104.44c15.15-15.35,26.18-12.29,35.28-3.44,8.87,8.62,12,19.7-3.17,35.07S152,161.35,143.18,152.66,141.18,119.79,156.34,104.44Z" transform="translate(-45 -25)" fill="#e6e7e8"/>
+    <path d="M156.34,104.44c15.15-15.35,26.18-12.29,35.28-3.44,8.87,8.62,12,19.7-3.17,35.07S152,161.35,143.18,152.66,141.18,119.79,156.34,104.44Z" transform="translate(-45 -25)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+  <ellipse cx="78" cy="152.5" rx="2.5" ry="6" fill="#e6e7e8" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+  <ellipse cx="94" cy="152.5" rx="2.5" ry="6" fill="#e6e7e8" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="10"/>
+</svg>
